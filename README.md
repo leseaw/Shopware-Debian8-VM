@@ -18,3 +18,6 @@ Kein Haftung für Schaden.
 
 
 PHP5.6 und IONCUBE installiert
+
+Download hier:
+https://drive.google.com/file/d/0B_VYD_Rqtqc0MXN6RldtaVZ2cFE/view?usp=sharing
